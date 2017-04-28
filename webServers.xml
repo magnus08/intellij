@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93e2690a-c375-48e2-9c14-e928da9e063b" name="deploy" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/java/deploy" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
