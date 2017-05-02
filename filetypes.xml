@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="inc" type="FTL" />
-      <mapping pattern="resttester" type="Native" />
-    </extensionMap>
-  </component>
-</application>
