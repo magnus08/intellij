@@ -1,7 +1,13 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="ImplementMethods" />
 </keymap>
