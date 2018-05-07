@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>html</mask>
-      <mask>htm</mask>
-      <mask>ht</mask>
-      <mask>h</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>Ä*</mask>
-      <mask>Ä</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.jprot</mask>
-      <mask>*.jpro</mask>
-      <mask>*.jpr</mask>
-      <mask>*.jp</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.pt</mask>
-      <mask>*.p</mask>
-      <mask>*.pre</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prot</mask>
-      <mask>*.proto</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
